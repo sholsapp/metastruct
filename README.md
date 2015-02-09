@@ -16,6 +16,10 @@ simplify code bases.
 >>> from metastruct import Metastruct
 >>> from operator import attrgetter
 >>> s = Metastruct({'product': {'name': 'foo', 'type': 'foo_type'}, 'quantity': 10})
+>>> s.product.name
+'foo'
+>>> s.quantity
+10
 >>> attrgetter('product.name')(s)
 'foo'
 >>> attrgetter('quantity')(s)
