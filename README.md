@@ -25,3 +25,11 @@ simplify code bases.
 >>> attrgetter('quantity')(s)
 10
 ```
+
+## todo
+
+- Implement code to allow camelcase or underscore notation when accessing
+  attributes on the class.
+
+- Implement code to dump a metastruct.Metastruct class back to JSON.
+
