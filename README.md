@@ -1,6 +1,6 @@
 # metastruct
 
-[![Latest Version](https://pypip.in/version/metastruct/badge.svg?style=flat)](https://pypi.python.org/pypi/metastruct/)
+[![Latest Version](https://img.shields.io/pypi/v/metastruct.svg?style=flat)](https://pypi.python.org/pypi/metastruct/)
 [![Travis](https://secure.travis-ci.org/sholsapp/metastruct.png?branch=master)](https://travis-ci.org/sholsapp/metastruct)
 
 This library, simply, translates Python dictionary objects into first-class
